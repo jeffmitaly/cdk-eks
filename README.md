@@ -3,6 +3,7 @@ This repository holds the skeleton code where you would start the journey to *[M
 
 Please clone this repository and start [the workshop](http://demogo-multiregion-eks.s3-website.ap-northeast-2.amazonaws.com/ko/) to play with the lab. :)
 
+ohohohoho
 
 ## Related Repository
 * [Skeleton Repository](https://github.com/yjw113080/aws-cdk-eks-multi-region-skeleton): You would clone this repository and build up the code as going through the steps in the lab.
